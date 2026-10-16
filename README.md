@@ -1,6 +1,6 @@
 ### Bonjour, je suis Alexis
 
-Étudiant ingénieur en **Data & IA**, admis au **MSc Space Data** (IPSA Toulouse × EPITA, RNCP Niveau 7) — rentrée septembre 2026. Je recherche une **alternance de 24 mois en Data Engineering / Data Science**, avec une appétence marquée pour les données spatiales et aéronautiques.
+Étudiant ingénieur en **Data & IA**, admis au **MSc Space Data** (IPSA Toulouse × EPITA) — rentrée septembre 2026. Je recherche une **En alternance chez SAFRAN AIRCRAFT ENGINE**, avec une appétence marquée pour les données spatiales et aéronautiques.
 
 -    **Space & Aviation Data** — ETL temps réel, observation de la Terre, données satellitaires
 -    **Machine Learning & Stats** — séries temporelles, modélisation stochastique, Monte-Carlo
@@ -24,6 +24,6 @@
 | [Visualisation-ultrason-Arduino-Sonar](https://github.com/alex-codex/Visualisation-ultrason-Arduino-Sonar) | Reconstruction d'un sonar à partir d'un capteur ultrason monté sur servo-moteur |
 
 ####  En ce moment
-Préparation du MSc Space Data (IPSA Toulouse) : observation de la Terre, cybersécurité des systèmes spatiaux, Big Data géospatial (Copernicus, STAC, formats cloud-natifs).
+Debut des cours MSc Space Data (IPSA Toulouse) : observation de la Terre, cybersécurité des systèmes spatiaux, Big Data géospatial (Copernicus, STAC, formats cloud-natifs).
 
 <sub>Le reste de mes projets (embarqué, systèmes, front-end) est disponible dans l'onglet Repositories.</sub>
