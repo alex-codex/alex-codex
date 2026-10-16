@@ -1,6 +1,6 @@
 ### Bonjour, je suis Alexis
 
-Étudiant ingénieur en **Data & IA**, admis au **MSc Space Data** (IPSA Toulouse × EPITA) — rentrée septembre 2026. Je recherche une **En alternance chez SAFRAN AIRCRAFT ENGINE**, avec une appétence marquée pour les données spatiales et aéronautiques.
+Étudiant ingénieur en **Data & IA**, admis au **MSc Space Data** (IPSA Toulouse × EPITA) — rentrée septembre 2026. Je suis **En alternance chez SAFRAN AIRCRAFT ENGINE**, avec une appétence marquée pour les données spatiales et aéronautiques.
 
 -    **Space & Aviation Data** — ETL temps réel, observation de la Terre, données satellitaires
 -    **Machine Learning & Stats** — séries temporelles, modélisation stochastique, Monte-Carlo
